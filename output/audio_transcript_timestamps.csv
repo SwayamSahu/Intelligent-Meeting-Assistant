@@ -1,0 +1,27 @@
+timestamp_start,text
+0:00:00,this video I also want to do one more thing. So I will rub this thing in the description.
+0:00:05,So this is all the t-trained classifiers for phase detection for different parts of phase
+0:00:15,detection basically. So each of these XML file contains a t-trained classifier which is trained to detect this
+0:00:20,file is trained.
+0:00:25,This classifier is trained to detect eyes and this classifier is trained to detect frontal
+0:00:30,get phase. So to download the hard cascade and just go i.xml.
+0:00:35,What you need to do is open this file and we will be needing the hard cascade underscore
+0:00:40,frontal please underscore default.
+0:00:45,So open these two files and click on raw.
+0:00:50,So this should load the raw version. And now what you need to do is right click on it.
+0:00:55,Click on save s and save the file.
+0:01:00,Similarly you need to save the file for the frontal face underscore default.
+0:01:05,Click on raw and this should load the raw version.
+0:01:10,Now click on right click and click on save s and click on save.
+0:01:15,So we will download the t-trained classifier for the eyes and on the frontal face from
+0:01:20,this link and for the nose and for the mouth we will be downloading the classifier from
+0:01:25,this link.
+0:01:30,Both the links will be in the description so you can check the links from there.
+0:01:35,So to download the nose classifier for the nose click on this link and this will download
+0:01:40,the classifier and as the file you just need to extract it.
+0:01:45,And similarly you can download the classifier for the mouth from here.
+0:01:50,You can just download the classifier and you just need to download this and extract it
+0:01:55,and you are good to go.
+0:02:00,All of the four xml files or the t-trained classifier also extract the mouth and the
+0:02:05,nose and the nose sorry and we can delete the step files.
+0:02:10,So here are all the four p-trained classifiers and our list.

@@ -1,0 +1,20 @@
+Here are the meeting transcript's main points summarized in clear and concise bullet points:
+
+• The speaker will share a link to download four t-trained classifiers for phase detection, which contain trained models to detect eyes, frontal face, nose, and mouth.
+
+• To use these classifiers, follow these steps:
+  • Open the corresponding XML file.
+  • Click on "Raw" to view the raw version of the file.
+  • Right-click on the file and select "Save S" to save it as a .xml file.
+
+• The required classifier files are:
+  • Eyes: hard cascade _ frontal _ default.xml
+  • Frontal face: hard cascade_frontal_default.xml
+
+• Additional classifiers can be downloaded from the following links:
+  • Nose: [link]
+  • Mouth: [link]
+
+• Once downloaded, extract the .xml file and use it for phase detection.
+
+• Note that the classifiers for nose and mouth do not require additional steps after extraction.
