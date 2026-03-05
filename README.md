@@ -1,4 +1,4 @@
-## Cursor Event Analysis Pipeline
+<img width="1504" height="513" alt="image" src="https://github.com/user-attachments/assets/c35e82af-fe63-4280-af05-1eb4fc0ed89b" />## Cursor Event Analysis Pipeline
 
 This project provides a multi-stage pipeline for analyzing cursor events (MOVE, HOVER, CLICK) in video recordings. The system extracts frames, detects cursor positions, tracks region-of-interest changes, classifies events, and generates both CSV reports and annotated videos.
 
@@ -126,6 +126,9 @@ source .venv/bin/activate
 
 pip install pyannote.audio
 
-![Uploading image.png…]()
+<img width="1504" height="513" alt="image" src="https://github.com/user-attachments/assets/6ad6898a-baab-48e6-911c-0f0c41641e9e" />
+
+
+
 
 
